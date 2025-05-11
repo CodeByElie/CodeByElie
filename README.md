@@ -2,7 +2,11 @@
 Ladies and Gentlemen welcome to my page!
 I'm Elie Nassar, a CS & mathematics student from Paris, France.
 
-### Programming languages
+![Gravity](https://github.com/user-attachments/assets/517f5fea-6248-48ad-819b-2eac3804dab5)
+
+
+
+### 📚 Programming languages
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)](#)
@@ -12,7 +16,7 @@ I'm Elie Nassar, a CS & mathematics student from Paris, France.
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)](#)
 
-### Frameworks
+### ⚙️ Frameworks
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)](#)
@@ -21,7 +25,7 @@ I'm Elie Nassar, a CS & mathematics student from Paris, France.
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](#)
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)](#)
 
-### Softwares
+### 🛠️ Softwares
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white&style=for-the-badge)](#)
