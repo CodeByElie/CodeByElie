@@ -2,7 +2,7 @@
 Ladies and Gentlemen welcome to my page!
 I'm Elie Nassar, a CS & mathematics student from Paris, France.
 
-![Gravity](https://github.com/user-attachments/assets/517f5fea-6248-48ad-819b-2eac3804dab5)
+![Gravity](https://github.com/user-attachments/assets/e441e5a1-f97c-465b-ad01-3198e4bdb128)
 
 
 
