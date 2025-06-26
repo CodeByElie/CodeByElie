@@ -26,7 +26,6 @@ I'm Elie Nassar, a CS & mathematics student from Paris, France.
 [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)](#)
 [![SFML](https://img.shields.io/badge/sfml-4cae4e?logo=sfml&logoColor=fff&style=for-the-badge)](#)
 [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](#)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### 🛠️ Softwares
 
