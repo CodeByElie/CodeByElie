@@ -2,9 +2,8 @@
 Ladies and Gentlemen welcome to my page!
 I'm Elie Nassar, a CS & mathematics student from Paris, France.
 
-<img width="1000" alt="Word-Game" src="https://github.com/user-attachments/assets/a736d825-ca00-46c3-850d-1c9c21a9bba4" />
-<img width="500" alt="Gravity" src="https://github.com/user-attachments/assets/e4954fb5-0564-4420-8f2a-72d0a501a2ba" />
-<img width="500" alt="Simulation" src="https://github.com/user-attachments/assets/4e4a4126-cd99-4c40-99b0-c6f2c841d8a5" />
+<img width="50vw" alt="Gravity" src="https://github.com/user-attachments/assets/e4954fb5-0564-4420-8f2a-72d0a501a2ba" />
+<img width="50vw" alt="Simulation" src="https://github.com/user-attachments/assets/4e4a4126-cd99-4c40-99b0-c6f2c841d8a5" />
 
 ### 📚 Programming languages
 
